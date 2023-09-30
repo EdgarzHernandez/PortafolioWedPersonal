@@ -232,6 +232,7 @@ img
   right: 0;
 }
 
+/*Home section*/
 .home 
 {
   height: calc(100vh - 3rem);
@@ -334,6 +335,7 @@ img
   background-color: var(--first-color);
 }
 
+
 /* ABOUT SECTION */
 
 .about_container 
@@ -366,7 +368,7 @@ img
 
 
 
-/* SKILLS */
+/* SKILLS Section */
 
 .skills_container 
 {
@@ -439,7 +441,7 @@ img
 
 .skill_bts
 {
-  width: 70%;
+  width: 50%;
 }
 
 .skill_js 
@@ -458,7 +460,7 @@ img
 }
 
 
-/* WORK */
+/* WORK Section */
 
 .work_container
 {
@@ -564,7 +566,7 @@ img
 
 
 
-/* Contact */
+/* Contact Section */
 
 .control_input 
 {
@@ -588,7 +590,7 @@ img
   margin-left: auto;
 }
 
-/* Footer */
+/* Footer Section */
 
 .footer 
 {
@@ -618,6 +620,7 @@ img
 }
 
 
+/*Dark Mode*/
 
 .dark_modee 
 {
@@ -796,6 +799,7 @@ img
 } 
 
 
+/*Resposive Area*/
 
 @media screen and (min-width: 768px) 
 {
