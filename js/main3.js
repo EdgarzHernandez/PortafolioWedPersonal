@@ -1,0 +1,5 @@
+
+function limpiarr()
+{
+    formularioG.reset()
+}
